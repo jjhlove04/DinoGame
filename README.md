@@ -1,1 +1,1 @@
-# DinoGame
+# WordGame
